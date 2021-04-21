@@ -5,9 +5,9 @@ K-means clustering is a widely used clustering technique attempting to find a ce
 
 The value of k at the point after which the distortion/inertia start decreasing in a linear fashion (‘elbow’) gives the best possible number of clusters to be formed. Thus, for the given data, the optimum k value was 3. Hence, 3 clusters were formed containing the sensor readings. On applying the model on the dataset, the clusters were formed and the corresponding labels were mentioned for each reading, for ease of classification using the KNN Classification algorithm.
 
-__K Means METRICS__
-Silhouette Average - 94.58%
-Inertia - 5.378
+__K Means METRICS__  
+Silhouette Average - 94.58%  
+Inertia - 5.378  
 
-__KNN METRICS__
+__KNN METRICS__  
 f1 score - 97%
